@@ -134,20 +134,7 @@ export class AdminDashboardComponent implements OnInit {
   
     
   }
-}
- description,
-      member: [],
-      project_image:project_image,
-      url: url,
-      date_posted: date_posted,
 
-    }
-    )
-    .subscribe((res) => {
-        console.log(res)
-        
-      });
-  
-    
-  }
+
+   
 }
